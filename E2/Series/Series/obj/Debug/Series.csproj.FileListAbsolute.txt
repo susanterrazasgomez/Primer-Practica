@@ -1,0 +1,8 @@
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\bin\Debug\Series.exe.config
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\bin\Debug\Series.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\bin\Debug\Series.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\obj\Debug\Series.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\obj\Debug\Series.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Series\Series\obj\Debug\Series.pdb

@@ -1,0 +1,8 @@
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\bin\Debug\Pets.exe.config
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\bin\Debug\Pets.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\bin\Debug\Pets.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\obj\Debug\Pets.csproj.AssemblyReference.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\obj\Debug\Pets.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\obj\Debug\Pets.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\obj\Debug\Pets.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E4-E5\Pets\Pets\obj\Debug\Pets.pdb

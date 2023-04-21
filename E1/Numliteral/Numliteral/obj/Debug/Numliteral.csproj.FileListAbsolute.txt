@@ -1,0 +1,8 @@
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\obj\Debug\Numliteral.csproj.AssemblyReference.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\obj\Debug\Numliteral.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\obj\Debug\Numliteral.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\bin\Debug\Numliteral.exe.config
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\bin\Debug\Numliteral.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\bin\Debug\Numliteral.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\obj\Debug\Numliteral.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E1\Numliteral\Numliteral\obj\Debug\Numliteral.pdb

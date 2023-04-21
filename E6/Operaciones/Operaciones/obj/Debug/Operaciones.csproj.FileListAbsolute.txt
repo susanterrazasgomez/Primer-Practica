@@ -1,0 +1,11 @@
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.AssemblyReference.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.frm_principal.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Practica1 sis2420\E6\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
